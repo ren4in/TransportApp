@@ -1,7 +1,4 @@
-﻿
-using Microsoft.VisualBasic;
-
-namespace TransportApp
+﻿namespace TransportApp
     {
         public class Driver
         {
